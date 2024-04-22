@@ -1,0 +1,34 @@
+:root {
+    /* Colors*/
+
+    /* Primary */
+    --Color_primary_grewus: #009df7;
+    --Color_primary_haptic: #0365b1;
+    --Color_primary_acoustic: #ec008c;
+    --Color_primary_gradient: linear-gradient(to right, #0365b1 , #ec008c);
+    --Color_primary_font: #303437;
+    --Color_primary_background: #f6f6f6;
+    /* Secondary */
+    --Color_secondary_font: #f6f6f6;
+
+
+    /* Fonts */
+
+
+    /* Spacing */
+}
+
+/* Standard Setup */
+body {
+    background-color: var(--Color_primary_background);
+}
+h1 h2 h3 h4 {
+    font-family: Raleway;
+    font-weight: bold;
+    color: var(--Color_primary_font);
+}
+h5 h6 p {
+    font-family: Calibri;
+    font-weight: normal;
+    color: var(--Color_primary_font);
+}
