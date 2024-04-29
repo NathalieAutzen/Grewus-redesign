@@ -25,8 +25,9 @@
     --acoustics_secondary_color: #CDE0EF;
 
 
-    /* Fonts */
+    
     /* Desktop */
+    /* Fonts */
     --D_header: 2rem;
     --D_subheader: 1.5rem;
     --D_cardheader: 1.25rem;
@@ -34,9 +35,16 @@
     --D_sub__nav: 1.25rem;
     --D_body: 1rem;
     --D_button: 1rem;
-    --D_footer: 1rem; 
+    --D_footer: 1rem;
+    /* Spacing */
+    --D_xsmall: 0.5rem;
+    --D_small: 1rem;
+    --D_medium: 1.5rem;
+    --D_large: 2rem;
+    --D_xlarge: 3rem;
 
     /* Mobile */
+    /* Fonts */
     --M_header: 1.5rem;
     --M_subheader: 1.25rem;
     --M_cardheader: 1.125rem;
@@ -44,14 +52,15 @@
     --M_sub__nav: 1.125rem;
     --M_body: 1rem;
     --M_button: 1rem;
-    --M_footer: 1rem; 
-
-    /* Spacing */
-    --xsmall_space: 0.5rem;
-    --small_space: 1rem;
-    --medium_space: 1.5rem;
-    --large_space: 2rem;
-    --xlarge_space: 3rem;
+    --M_footer: 1rem;
+    /*Spacing */
+    --M_xxsmall: 0.5rem;
+    --M_xsmall: 1rem;
+    --M_small: 1.5rem;
+    --M_medium_: 2rem;
+    --M_large: 2.5rem;
+    --M_xlarge: 3rem;
+    --M_xxlarge: 4rem;
 }
 
 /* Standard Setup */
